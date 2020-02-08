@@ -10,5 +10,5 @@ This repo contains instructions specific for the AEC committee. We provide simpl
 ```bash
 git clone https://github.com/shravanrn/LibrarySandboxing
 ```
-- Follow instructions in the Library Sandboxing repo's README to build the code and run benchmarks.
+- Follow instructions in the [LibrarySandboxing](https://github.com/shravanrn/LibrarySandboxing/) repo's README to build the code and run benchmarks.
 - If you run into issues here, we are happy to provide a VM with pre-built binaries on request.
