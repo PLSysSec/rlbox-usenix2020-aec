@@ -1,7 +1,5 @@
 # RLBox USENIX 2020 Artifact Evaluation
-This is the artifact evaluation repo for the paper "Retrofitting Fine Grain Isolation in the Firefox Renderer" submitted to USENIX 2020 in which we introduce the RLBox sandboxing framework.
-
-This repo contains instructions specific for the AEC committee. We provide simple instructions to while the code itself are stored in different repos. Below we give a description for the recommended setup for the AEC.
+This is the artifact evaluation repo for the paper "Retrofitting Fine Grain Isolation in the Firefox Renderer" submitted to USENIX 2020 in which we introduce the RLBox sandboxing framework. This repo contains instructions specifically for the recommended setup to be used by the AEC.
 
 # Get the source
 
